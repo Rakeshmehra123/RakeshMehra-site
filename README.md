@@ -1,2 +1,3 @@
-1.This is my firts personal portfolio site.
-2.I am Rakesh.
+# My portfolio
+
+Hey! Welcome to my portfolio.It's comming up tomorrow when i learn HTML and CSS with Tanay Pratap sir on youtube.
